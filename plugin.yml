@@ -1,0 +1,8 @@
+name: CustomCraftSistem
+main: me.Main
+author: Lev Shmelev
+version: 2.0
+
+commands:
+  customcrafting:
+  wbc:
